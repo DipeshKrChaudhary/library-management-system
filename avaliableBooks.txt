@@ -1,0 +1,8 @@
+>>>>>>WELCOME TO IIC Library>>>>>>
+ Book id.  Name of books            Author             Quantity    Rate
+  1.       Harry Potter             JK Rowling         30          $2
+
+  2.       Start With Why           Simon Sinek        10          $1.5
+
+  3.       Programming With Python  John Smith         20          $1.5
+
